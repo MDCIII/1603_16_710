@@ -18,5 +18,6 @@
 <urn:mdciii:1603:16:710:0>
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
     rdfs:label "1603:16:710:0" ;
-    skos:prefLabel "South Africa"@eng-Latn .
+    skos:prefLabel "South Africa"@eng-Latn ;
+    p:p297 "ZA" .
 
