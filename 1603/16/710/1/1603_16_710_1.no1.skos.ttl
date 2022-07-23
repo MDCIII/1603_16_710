@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:710()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:710:1:1" ;
     skos:prefLabel "Western Cape"@eng-Latn ;
-    wdata:q7200235 "ZA1" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -48,7 +46,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:710:1:2" ;
     skos:prefLabel "Eastern Cape"@eng-Latn ;
-    wdata:q7200235 "ZA2" ;
 .
 
 <urn:mdciii:1603:16:710:1:3>
@@ -57,7 +54,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:710:1:3" ;
     skos:prefLabel "Nothern Cape"@eng-Latn ;
-    wdata:q7200235 "ZA3" ;
 .
 
 <urn:mdciii:1603:16:710:1:4>
@@ -66,7 +62,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:710:1:4" ;
     skos:prefLabel "Free State"@eng-Latn ;
-    wdata:q7200235 "ZA4" ;
 .
 
 <urn:mdciii:1603:16:710:1:5>
@@ -75,7 +70,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:710:1:5" ;
     skos:prefLabel "KwaZulu-Natal"@eng-Latn ;
-    wdata:q7200235 "ZA5" ;
 .
 
 <urn:mdciii:1603:16:710:1:6>
@@ -84,7 +78,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:710:1:6" ;
     skos:prefLabel "North West"@eng-Latn ;
-    wdata:q7200235 "ZA6" ;
 .
 
 <urn:mdciii:1603:16:710:1:7>
@@ -93,7 +86,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:710:1:7" ;
     skos:prefLabel "Gauteng"@eng-Latn ;
-    wdata:q7200235 "ZA7" ;
 .
 
 <urn:mdciii:1603:16:710:1:8>
@@ -102,7 +94,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:710:1:8" ;
     skos:prefLabel "Mpumalanga"@eng-Latn ;
-    wdata:q7200235 "ZA8" ;
 .
 
 <urn:mdciii:1603:16:710:1:9>
@@ -111,6 +102,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:710:1:9" ;
     skos:prefLabel "Limpopo"@eng-Latn ;
-    wdata:q7200235 "ZA9" ;
 .
 

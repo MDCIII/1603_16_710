@@ -24,7 +24,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:1> ;
     skos:prefLabel "West Coast"@eng-Latn ;
-    wdata:q7200235 "ZA101" ;
+    wdata:Q7200235 "ZA101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -98,7 +98,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:1> ;
     skos:prefLabel "Cape Winelands"@eng-Latn ;
-    wdata:q7200235 "ZA102" ;
+    wdata:Q7200235 "ZA102" ;
 .
 
 <urn:mdciii:1603:16:710:2:103>
@@ -110,7 +110,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:1> ;
     skos:prefLabel "Overberg"@eng-Latn ;
-    wdata:q7200235 "ZA103" ;
+    wdata:Q7200235 "ZA103" ;
 .
 
 <urn:mdciii:1603:16:710:2:104>
@@ -122,7 +122,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:1> ;
     skos:prefLabel "Eden"@eng-Latn ;
-    wdata:q7200235 "ZA104" ;
+    wdata:Q7200235 "ZA104" ;
 .
 
 <urn:mdciii:1603:16:710:2:105>
@@ -134,7 +134,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:1> ;
     skos:prefLabel "Central Karoo"@eng-Latn ;
-    wdata:q7200235 "ZA105" ;
+    wdata:Q7200235 "ZA105" ;
 .
 
 <urn:mdciii:1603:16:710:2:191>
@@ -146,7 +146,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:1> ;
     skos:prefLabel "City of Cape Town"@eng-Latn ;
-    wdata:q7200235 "ZA191" ;
+    wdata:Q7200235 "ZA191" ;
 .
 
 <urn:mdciii:1603:16:710:2:210>
@@ -158,7 +158,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:2> ;
     skos:prefLabel "Cacadu"@eng-Latn ;
-    wdata:q7200235 "ZA210" ;
+    wdata:Q7200235 "ZA210" ;
 .
 
 <urn:mdciii:1603:16:710:2:212>
@@ -170,7 +170,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:2> ;
     skos:prefLabel "Amathole"@eng-Latn ;
-    wdata:q7200235 "ZA212" ;
+    wdata:Q7200235 "ZA212" ;
 .
 
 <urn:mdciii:1603:16:710:2:213>
@@ -182,7 +182,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:2> ;
     skos:prefLabel "Chris Hani"@eng-Latn ;
-    wdata:q7200235 "ZA213" ;
+    wdata:Q7200235 "ZA213" ;
 .
 
 <urn:mdciii:1603:16:710:2:214>
@@ -194,7 +194,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:2> ;
     skos:prefLabel "Joe Gqabi"@eng-Latn ;
-    wdata:q7200235 "ZA214" ;
+    wdata:Q7200235 "ZA214" ;
 .
 
 <urn:mdciii:1603:16:710:2:215>
@@ -206,7 +206,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:2> ;
     skos:prefLabel "O.R.Tambo"@eng-Latn ;
-    wdata:q7200235 "ZA215" ;
+    wdata:Q7200235 "ZA215" ;
 .
 
 <urn:mdciii:1603:16:710:2:244>
@@ -218,7 +218,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:2> ;
     skos:prefLabel "Alfred Nzo"@eng-Latn ;
-    wdata:q7200235 "ZA244" ;
+    wdata:Q7200235 "ZA244" ;
 .
 
 <urn:mdciii:1603:16:710:2:292>
@@ -230,7 +230,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:2> ;
     skos:prefLabel "Buffalo City"@eng-Latn ;
-    wdata:q7200235 "ZA292" ;
+    wdata:Q7200235 "ZA292" ;
 .
 
 <urn:mdciii:1603:16:710:2:293>
@@ -242,7 +242,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:2> ;
     skos:prefLabel "Nelson Mandela Bay"@eng-Latn ;
-    wdata:q7200235 "ZA293" ;
+    wdata:Q7200235 "ZA293" ;
 .
 
 <urn:mdciii:1603:16:710:2:306>
@@ -254,7 +254,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:3> ;
     skos:prefLabel "Namakwa"@eng-Latn ;
-    wdata:q7200235 "ZA306" ;
+    wdata:Q7200235 "ZA306" ;
 .
 
 <urn:mdciii:1603:16:710:2:307>
@@ -266,7 +266,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:3> ;
     skos:prefLabel "Pixley ka Seme"@eng-Latn ;
-    wdata:q7200235 "ZA307" ;
+    wdata:Q7200235 "ZA307" ;
 .
 
 <urn:mdciii:1603:16:710:2:308>
@@ -278,7 +278,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:3> ;
     skos:prefLabel "Z F Mgcawu"@eng-Latn ;
-    wdata:q7200235 "ZA308" ;
+    wdata:Q7200235 "ZA308" ;
 .
 
 <urn:mdciii:1603:16:710:2:309>
@@ -290,7 +290,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:3> ;
     skos:prefLabel "Frances Baard"@eng-Latn ;
-    wdata:q7200235 "ZA309" ;
+    wdata:Q7200235 "ZA309" ;
 .
 
 <urn:mdciii:1603:16:710:2:345>
@@ -302,7 +302,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:3> ;
     skos:prefLabel "John Taolo Gaetsewe"@eng-Latn ;
-    wdata:q7200235 "ZA345" ;
+    wdata:Q7200235 "ZA345" ;
 .
 
 <urn:mdciii:1603:16:710:2:416>
@@ -314,7 +314,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:4> ;
     skos:prefLabel "Xhariep"@eng-Latn ;
-    wdata:q7200235 "ZA416" ;
+    wdata:Q7200235 "ZA416" ;
 .
 
 <urn:mdciii:1603:16:710:2:418>
@@ -326,7 +326,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:4> ;
     skos:prefLabel "Lejweleputswa"@eng-Latn ;
-    wdata:q7200235 "ZA418" ;
+    wdata:Q7200235 "ZA418" ;
 .
 
 <urn:mdciii:1603:16:710:2:419>
@@ -338,7 +338,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:4> ;
     skos:prefLabel "Thabo Mofutsanyane"@eng-Latn ;
-    wdata:q7200235 "ZA419" ;
+    wdata:Q7200235 "ZA419" ;
 .
 
 <urn:mdciii:1603:16:710:2:420>
@@ -350,7 +350,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:4> ;
     skos:prefLabel "Fezile Dabi"@eng-Latn ;
-    wdata:q7200235 "ZA420" ;
+    wdata:Q7200235 "ZA420" ;
 .
 
 <urn:mdciii:1603:16:710:2:494>
@@ -362,7 +362,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:4> ;
     skos:prefLabel "Mangaung"@eng-Latn ;
-    wdata:q7200235 "ZA494" ;
+    wdata:Q7200235 "ZA494" ;
 .
 
 <urn:mdciii:1603:16:710:2:521>
@@ -374,7 +374,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:5> ;
     skos:prefLabel "Ugu"@eng-Latn ;
-    wdata:q7200235 "ZA521" ;
+    wdata:Q7200235 "ZA521" ;
 .
 
 <urn:mdciii:1603:16:710:2:522>
@@ -386,7 +386,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:5> ;
     skos:prefLabel "Umgungundlovu"@eng-Latn ;
-    wdata:q7200235 "ZA522" ;
+    wdata:Q7200235 "ZA522" ;
 .
 
 <urn:mdciii:1603:16:710:2:523>
@@ -398,7 +398,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:5> ;
     skos:prefLabel "Uthukela"@eng-Latn ;
-    wdata:q7200235 "ZA523" ;
+    wdata:Q7200235 "ZA523" ;
 .
 
 <urn:mdciii:1603:16:710:2:524>
@@ -410,7 +410,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:5> ;
     skos:prefLabel "Umzinyathi"@eng-Latn ;
-    wdata:q7200235 "ZA524" ;
+    wdata:Q7200235 "ZA524" ;
 .
 
 <urn:mdciii:1603:16:710:2:525>
@@ -422,7 +422,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:5> ;
     skos:prefLabel "Amajuba"@eng-Latn ;
-    wdata:q7200235 "ZA525" ;
+    wdata:Q7200235 "ZA525" ;
 .
 
 <urn:mdciii:1603:16:710:2:526>
@@ -434,7 +434,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:5> ;
     skos:prefLabel "Zululand"@eng-Latn ;
-    wdata:q7200235 "ZA526" ;
+    wdata:Q7200235 "ZA526" ;
 .
 
 <urn:mdciii:1603:16:710:2:527>
@@ -446,7 +446,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:5> ;
     skos:prefLabel "Umkhanyakude"@eng-Latn ;
-    wdata:q7200235 "ZA527" ;
+    wdata:Q7200235 "ZA527" ;
 .
 
 <urn:mdciii:1603:16:710:2:528>
@@ -458,7 +458,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:5> ;
     skos:prefLabel "Uthungulu"@eng-Latn ;
-    wdata:q7200235 "ZA528" ;
+    wdata:Q7200235 "ZA528" ;
 .
 
 <urn:mdciii:1603:16:710:2:529>
@@ -470,7 +470,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:5> ;
     skos:prefLabel "iLembe"@eng-Latn ;
-    wdata:q7200235 "ZA529" ;
+    wdata:Q7200235 "ZA529" ;
 .
 
 <urn:mdciii:1603:16:710:2:543>
@@ -482,7 +482,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:5> ;
     skos:prefLabel "Sisonke"@eng-Latn ;
-    wdata:q7200235 "ZA543" ;
+    wdata:Q7200235 "ZA543" ;
 .
 
 <urn:mdciii:1603:16:710:2:595>
@@ -494,7 +494,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:5> ;
     skos:prefLabel "eThekwini"@eng-Latn ;
-    wdata:q7200235 "ZA595" ;
+    wdata:Q7200235 "ZA595" ;
 .
 
 <urn:mdciii:1603:16:710:2:637>
@@ -506,7 +506,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:6> ;
     skos:prefLabel "Bojanala"@eng-Latn ;
-    wdata:q7200235 "ZA637" ;
+    wdata:Q7200235 "ZA637" ;
 .
 
 <urn:mdciii:1603:16:710:2:638>
@@ -518,7 +518,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:6> ;
     skos:prefLabel "Ngaka Modiri Molema"@eng-Latn ;
-    wdata:q7200235 "ZA638" ;
+    wdata:Q7200235 "ZA638" ;
 .
 
 <urn:mdciii:1603:16:710:2:639>
@@ -530,7 +530,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:6> ;
     skos:prefLabel "Dr Ruth Segomotsi Mompati"@eng-Latn ;
-    wdata:q7200235 "ZA639" ;
+    wdata:Q7200235 "ZA639" ;
 .
 
 <urn:mdciii:1603:16:710:2:640>
@@ -542,7 +542,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:6> ;
     skos:prefLabel "Dr Kenneth Kaunda"@eng-Latn ;
-    wdata:q7200235 "ZA640" ;
+    wdata:Q7200235 "ZA640" ;
 .
 
 <urn:mdciii:1603:16:710:2:742>
@@ -554,7 +554,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:7> ;
     skos:prefLabel "Sedibeng"@eng-Latn ;
-    wdata:q7200235 "ZA742" ;
+    wdata:Q7200235 "ZA742" ;
 .
 
 <urn:mdciii:1603:16:710:2:748>
@@ -566,7 +566,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:7> ;
     skos:prefLabel "West Rand"@eng-Latn ;
-    wdata:q7200235 "ZA748" ;
+    wdata:Q7200235 "ZA748" ;
 .
 
 <urn:mdciii:1603:16:710:2:797>
@@ -578,7 +578,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:7> ;
     skos:prefLabel "Ekurhuleni"@eng-Latn ;
-    wdata:q7200235 "ZA797" ;
+    wdata:Q7200235 "ZA797" ;
 .
 
 <urn:mdciii:1603:16:710:2:798>
@@ -590,7 +590,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:7> ;
     skos:prefLabel "City of Johannesburg"@eng-Latn ;
-    wdata:q7200235 "ZA798" ;
+    wdata:Q7200235 "ZA798" ;
 .
 
 <urn:mdciii:1603:16:710:2:799>
@@ -602,7 +602,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:7> ;
     skos:prefLabel "City of Tshwane"@eng-Latn ;
-    wdata:q7200235 "ZA799" ;
+    wdata:Q7200235 "ZA799" ;
 .
 
 <urn:mdciii:1603:16:710:2:830>
@@ -614,7 +614,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:8> ;
     skos:prefLabel "Gert Sibande"@eng-Latn ;
-    wdata:q7200235 "ZA830" ;
+    wdata:Q7200235 "ZA830" ;
 .
 
 <urn:mdciii:1603:16:710:2:831>
@@ -626,7 +626,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:8> ;
     skos:prefLabel "Nkangala"@eng-Latn ;
-    wdata:q7200235 "ZA831" ;
+    wdata:Q7200235 "ZA831" ;
 .
 
 <urn:mdciii:1603:16:710:2:832>
@@ -638,7 +638,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:8> ;
     skos:prefLabel "Ehlanzeni"@eng-Latn ;
-    wdata:q7200235 "ZA832" ;
+    wdata:Q7200235 "ZA832" ;
 .
 
 <urn:mdciii:1603:16:710:2:933>
@@ -650,7 +650,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:9> ;
     skos:prefLabel "Mopani"@eng-Latn ;
-    wdata:q7200235 "ZA933" ;
+    wdata:Q7200235 "ZA933" ;
 .
 
 <urn:mdciii:1603:16:710:2:934>
@@ -662,7 +662,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:9> ;
     skos:prefLabel "Vhembe"@eng-Latn ;
-    wdata:q7200235 "ZA934" ;
+    wdata:Q7200235 "ZA934" ;
 .
 
 <urn:mdciii:1603:16:710:2:935>
@@ -674,7 +674,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:9> ;
     skos:prefLabel "Capricorn"@eng-Latn ;
-    wdata:q7200235 "ZA935" ;
+    wdata:Q7200235 "ZA935" ;
 .
 
 <urn:mdciii:1603:16:710:2:936>
@@ -686,7 +686,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:9> ;
     skos:prefLabel "Waterberg"@eng-Latn ;
-    wdata:q7200235 "ZA936" ;
+    wdata:Q7200235 "ZA936" ;
 .
 
 <urn:mdciii:1603:16:710:2:947>
@@ -698,6 +698,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:710:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:710:1:9> ;
     skos:prefLabel "Sekhukhune"@eng-Latn ;
-    wdata:q7200235 "ZA947" ;
+    wdata:Q7200235 "ZA947" ;
 .
 
